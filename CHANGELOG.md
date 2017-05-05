@@ -19,6 +19,9 @@
 * Headers in source code markdown no longer cause corruption.  
   [John Fairhurst](https://github.com/johnfairh)
   [#628](https://github.com/realm/jazzy/issues/628)
+  
+* Removes a gap before the first character in the abstract of a parameter.  
+  [Nick Brook](https://github.com/nrbrook)
 
 ## 0.7.5
 
